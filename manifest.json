@@ -1,8 +1,9 @@
 {
- "start_url": "index.htm?installed=true",
+ "theme_color": "#FFFFFF",
  "display": "fullscreen",
  "background_color": "#FFFFFF",
- "theme_color": "#FFFFFF",
+ "name": "Darnell Oficial",
+ "start_url": "index.htm?installed=true",
  "icons": [
   {
    "sizes": "150x150",
@@ -39,6 +40,5 @@
    "type": "image/png",
    "src": "misc/icon64.png"
   }
- ],
- "name": "Darnell Oficial"
+ ]
 }
